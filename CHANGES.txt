@@ -1,2 +1,1 @@
-Nuevo tildable "No preguntar conservar si el juego está en FOREVER"
-Corregidos roms de psx, sbi, m3u etc
+
