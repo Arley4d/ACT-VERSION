@@ -1,1 +1,2 @@
-* Corregida Multidescarga para algunos roms de PS3
+* Correcciones en la Cloud Media y themes.
+* Corregido descarga de algunas descargas de torrents.
