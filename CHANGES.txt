@@ -1,2 +1,4 @@
-* Correcciones en la Cloud Media y themes.
-* Corregido descarga de algunas descargas de torrents.
+Versión 6.8
+* Ahora el foco en los botones será de color azul, para mayor reconocimiento.
+* Al activar themes & Bezzels Cloud, estará unos segundos hasta activarlo.
+* Corrección al usar el joystick en los menus de la app Arley4dBypassPC.
