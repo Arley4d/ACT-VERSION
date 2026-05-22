@@ -1,13 +1,13 @@
 {
   "EMULATORS": {
-    "url": "https://www.mediafire.com/file/xxxxx/emulators_update.zip/file",
+    "url": "https://www.mediafire.com/file/gh3yprv9fqwbtcw/emulators.zip",
     "target": "emulators",
     "backup": "only_replaced_files",
     "delete_before_extract": false,
     "strip_root": "auto"
   },
   "BIOS": {
-    "url": "https://www.mediafire.com/file/xxxxx/bios_update.zip/file",
+    "url": "https://www.mediafire.com/file/0gts46ahufswadf/bios.zip",
     "target": "bios",
     "backup": "only_replaced_files",
     "delete_before_extract": false,
