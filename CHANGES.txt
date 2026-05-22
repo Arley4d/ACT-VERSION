@@ -1,3 +1,6 @@
+Versión 7.1
+* Corregidos fallos a la hora de actualizar Bios, y Emuladores.
+* Corregida barra de progreso a la hora de actualizar.
 Versión 7.0
 * Añadidos Emuladores, Bios, y cualquier archivo relevante (Extras) al actualizador.
 Versión 6.9
