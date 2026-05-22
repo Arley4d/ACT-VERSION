@@ -1,3 +1,5 @@
+Versión 7.0
+* Añadidos Emuladores, Bios, y cualquier archivo relevante (Extras) al actualizador.
 Versión 6.9
 * Arreglada multidescarga desde Retrobat en juegos de psx m3u.
 * Arreglado candelar desde Retrobat en juegos de psx m3u. (Antes no volvia al menú de Retrobat).
