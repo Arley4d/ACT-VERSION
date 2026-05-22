@@ -1,3 +1,6 @@
+Versión 6.9
+* Arreglada multidescarga desde Retrobat en juegos de psx m3u.
+* Arreglado candelar desde Retrobat en juegos de psx m3u. (Antes no volvia al menú de Retrobat).
 Versión 6.8
 * Ahora el foco en los botones será de color azul, para mayor reconocimiento.
 * Al activar themes & Bezzels Cloud, estará unos segundos hasta activarlo.
