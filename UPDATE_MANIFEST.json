@@ -14,7 +14,7 @@
     "strip_root": "auto"
   },
   "EXTRAS": {
-    "url": "https://www.mediafire.com/file/xxxxx/extras_update.zip/file",
+    "url": "https://www.mediafire.com/file/s8kawkgvd9d4g5w/file",
     "target": ".",
     "backup": "only_replaced_files",
     "delete_before_extract": false,
