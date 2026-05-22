@@ -1,0 +1,23 @@
+{
+  "EMULATORS": {
+    "url": "https://www.mediafire.com/file/xxxxx/emulators_update.zip/file",
+    "target": "emulators",
+    "backup": "only_replaced_files",
+    "delete_before_extract": false,
+    "strip_root": "auto"
+  },
+  "BIOS": {
+    "url": "https://www.mediafire.com/file/xxxxx/bios_update.zip/file",
+    "target": "bios",
+    "backup": "only_replaced_files",
+    "delete_before_extract": false,
+    "strip_root": "auto"
+  },
+  "EXTRAS": {
+    "url": "https://www.mediafire.com/file/xxxxx/extras_update.zip/file",
+    "target": ".",
+    "backup": "only_replaced_files",
+    "delete_before_extract": false,
+    "strip_root": "false"
+  }
+}
