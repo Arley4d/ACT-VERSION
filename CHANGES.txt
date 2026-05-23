@@ -1,3 +1,5 @@
+Versión 7.3
+* Arreglado la descarga de torrents por enlaces de mediafire.
 Versión 7.2
 * Ahora al cerrarse la app se borran los archivos temporales.
 Versión 7.1
