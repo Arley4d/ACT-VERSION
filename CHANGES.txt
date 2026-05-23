@@ -1,3 +1,5 @@
+Versión 7.2
+* Ahora al cerrarse la app se borran los archivos temporales.
 Versión 7.1
 * Corregidos fallos a la hora de actualizar Bios, y Emuladores.
 * Corregida barra de progreso a la hora de actualizar.
