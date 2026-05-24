@@ -1,3 +1,4 @@
+* Interfaz del Gestor de Roms descargadas moderna.
 Versión 7.4
 * Agregado cloud media de gbc, psx y xbox360. (ACTUALIZAR ROMS)
 * Arreglado Teknoparrot (ojo, no funcionarán el 100x100 de los juegos, muchos los debéis configurar vosostros) (pesados XD).
