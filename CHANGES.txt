@@ -1,3 +1,9 @@
+Versión 7.4
+* Agregado cloud media de gbc, psx y xbox360.
+* Arreglado Teknoparrot (ojo, no funcionarán el 100x100 de los juegos, muchos los debéis configurar vosostros) (pesados XD).
+* Para que os funcione Teknoparrot, actualizar las roms de este, recomiendo actualizar todos los sistemas.
+* Ahora desde mi app (Arley4dBypassPC.exe) si activas la cloud media, se ven caratulas, descripciones y videos de los juegos (si es que la tienen claro).
+* Arreglado las roms con enlaces de mediafire, (se a quitado el tildable en la app) ahora se hace automáticamente.
 Versión 7.3
 * Arreglado la descarga de torrents por enlaces de mediafire.
 Versión 7.2
