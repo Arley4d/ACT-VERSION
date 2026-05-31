@@ -1,3 +1,4 @@
+* Corregidos algunos enlaces caídos de roms de snes, (no hace falta actualizar todos los sistemas, solo snes)
 * Interfaz del Gestor de Roms descargadas moderna.
 Versión 7.4
 * Agregado cloud media de gbc, psx y xbox360. (ACTUALIZAR ROMS)
