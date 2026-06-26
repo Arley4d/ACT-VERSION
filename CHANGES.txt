@@ -1,1 +1,2 @@
-* Arreglado las roms de Teknoparrot (solo actualizar estos) lo siento la volví a liar XD.
+* Arley4dBypassPC v7.6 (arreglado un problema con el actualizador de roms, volved a actualizar las roms de teknoparrot) (arreglado pinballfx y pinballm que daba versión de prueba)
+* Arreglado las roms de Teknoparrot (solo actualizar estos).
