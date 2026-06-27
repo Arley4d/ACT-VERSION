@@ -1,2 +1,2 @@
-* Arley4dBypassPC v7.6 (arreglado un problema con el actualizador de roms, volved a actualizar las roms de teknoparrot) (arreglado pinballfx y pinballm que daba versión de prueba)
-* Arreglado las roms de Teknoparrot (solo actualizar estos).
+* Arley4dBypassPC v7.7 (incluida nueva opción para filtrar por regiones, idioma, etc)
+* Actualizado los paquetes de idiomas (actualizar extras)
