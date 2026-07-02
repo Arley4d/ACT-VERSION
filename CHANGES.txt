@@ -1,2 +1,7 @@
+* Arley4dBypassPC v7.7.5 (Añadida opción de escrapeo manual, Soporte para zaccariapinball, Ventana informativa del tiempo que a tardado una rom en descargar cuando a acabado.)
+* Actualizar emuladores (solo zaccariapinball)
+* Actualizar roms, (Solo actualizar zaccariapinball y psx).
+* Actualizar Extras.
+
 * Arley4dBypassPC v7.7 (incluida nueva opción para filtrar por regiones, idioma, etc)
 * Actualizado los paquetes de idiomas (actualizar extras)
