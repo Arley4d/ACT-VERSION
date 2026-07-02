@@ -1,6 +1,7 @@
-* Arley4dBypassPC v7.7.5 (Añadida opción de escrapeo manual, Soporte para zaccariapinball, Ventana informativa del tiempo que a tardado una rom en descargar cuando a acabado.)
-* Actualizar emuladores (solo zaccariapinball)
-* Actualizar roms, (Solo actualizar zaccariapinball y psx).
+* Arley4dBypassPC v7.7.5 (Añadida opción de escrapeo manual, Soporte para zaccariapinball y vpinball, Ventana informativa del tiempo que a tardado una rom en descargar cuando a acabado.)
+* Para usar vpinball, debéis activar la descompresión del sistema vpinball desde la app Arley4dbypassPC, en la secciçon de descompresión por sistema.
+* Actualizar emuladores (solo zaccariapinball y vpinball)
+* Actualizar roms, (Solo actualizar zaccariapinball, vpinball y psx).
 * Actualizar Extras.
 
 * Arley4dBypassPC v7.7 (incluida nueva opción para filtrar por regiones, idioma, etc)
