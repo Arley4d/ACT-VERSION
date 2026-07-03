@@ -1,3 +1,7 @@
+* Arley4dBypassPC v7.7.7 (Corregido error en el actualizador de roms, que no descargaba los gamelist.xml, con lo cual no funcionaba la CloudMedia)
+* Volver a actualizar TODAS las roms, para que se descarguen los gamelist.xml (siento las molestias).
+* Actualizar también los extras.
+
 * Arley4dBypassPC v7.7.6 (Corregido error en el actualizador de roms, que hacía que las roms de psx no se guardasen como debe)
 * Limpieza en general de archivos basura en fake roms (RECOMIENDO BORRAR TODAS LAS CARPETAS DE ROMS/ EXCEPTO FOREVER SI LA TENEIS, Y ACTUALIZAR DE NUEVO TODAS LAS ROMS).
 PERO ACTUALIZAR LAS ROMS DE PSX SI O SI.
