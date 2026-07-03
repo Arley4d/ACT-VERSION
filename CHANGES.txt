@@ -1,3 +1,7 @@
+* Arley4dBypassPC v7.7.6 (Corregido error en el actualizador de roms, que hacía que las roms de psx no se guardasen como debe)
+* Limpieza en general de archivos basura en fake roms (RECOMIENDO BORRAR TODAS LAS CARPETAS DE ROMS/ EXCEPTO FOREVER SI LA TENEIS, Y ACTUALIZAR DE NUEVO TODAS LAS ROMS).
+PERO ACTUALIZAR LAS ROMS DE PSX SI O SI.
+
 * Arley4dBypassPC v7.7.5 (Añadida opción de escrapeo manual, Soporte para zaccariapinball y vpinball, Ventana informativa del tiempo que a tardado una rom en descargar cuando a acabado.)
 * Para usar vpinball, debéis activar la descompresión del sistema vpinball desde la app Arley4dbypassPC, en la secciçon de descompresión por sistema.
 * Actualizar emuladores (solo zaccariapinball y vpinball)
