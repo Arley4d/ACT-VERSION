@@ -2,6 +2,7 @@
 ACTUALIZAR TAMBIEN LOS EXTRAS para poder usar la función Streaming.
 IMPORTANTE, actualizar también el emulador RPCS3 a la última versión, (lo podéis hacer dentro del mismo emulador RPCS3).
 * Mejora a la hora de jugar a los juegos de ps3, ahora ya no se han de desencriptar una vez descargados.
+* Recomiendo actualizar todas las roms, ya que e añadido xml's faltantes para la media (cloud media).
 
 * Arley4dBypassPC v7.9 (Nuevo modo de resolver enlace de mediafire, (caso todos los torrents) más rápido).
 * Arley4dBypassPC v7.8 (incluye pantalla avisando de que mi app es gratuita, incluye comunidad Arley4d (opcional), explorador Comunidad Arley4d, botón de acceso directo a Retrobat desde la app, vuelve la descarga masiva (beta))
