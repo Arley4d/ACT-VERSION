@@ -1,3 +1,4 @@
+* Arley4dBypassPC v8.3 (Mejora en el modo "turbo")
 * Arley4dBypassPC v8.2 (Añadido tildable "turbo") mejora aún más la velocidad de descarga, compatible con la multidescarga y el streaming.
 * Arley4dBypassPC v8.1 (Arreglado el Streaming para juegos de xbox original).
 * Arley4dBypassPC v8.0 (Nueva opción Streaming, para probarla debéis clicar el tildable dentro de la app Y TENER INSTALADO winfsp.msi, si es que no lo tenéis instalado ya).
