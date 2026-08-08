@@ -1,3 +1,5 @@
+* Arley4dBypassPC v8.6.5 (Arreglado namco2x6, Actualizar también las roms de este sistema).
+ACTUALIZAR LAS ROMS DE NAMCO2X6 si queréis usar este sistema.
 * Arley4dBypassPC v8.6 (Mejoras en el actualizador, y en la opción de descarga masiva).
 * Arley4dBypassPC v8.5 (Mejoras en el modo Streaming, añadido ventana de información modo Streaming, opcional/tildable, arreglada opción total fakeroms).
 * Roms actualizadas todas con sus tamaños, ahora todas las roms muestran su tamaño de descarga, tanto desde la app Arley4d como desde Retrobat en las descripciones.
