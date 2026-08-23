@@ -1,1 +1,1 @@
-(19/08/2026) A partir de ahora si hay actualizaciones, se informará desde esta ventana.
+(24/08/2026) Se han actualizado las roms de MAME (Ahora funcionan los killer instinkt), y las roms de Switch (se han eliminado enlaces caidos).
