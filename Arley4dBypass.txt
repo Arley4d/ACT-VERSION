@@ -1,2 +1,2 @@
 (24/08/2026) Se han actualizado las roms de Mame (ahora funcionan los killer instinct) y las roms de Switch (se han eliminado enlaces caidos).
-ACTUALIZAR SOLO LAS ROMS MAME Y SWITCH
+
