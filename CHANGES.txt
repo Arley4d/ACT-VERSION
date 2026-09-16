@@ -1,3 +1,4 @@
+* Arley4dBypassPC v8.7.9 (Esta versión, en principio se salta el baneo por el futbol, con lo cual el cloud media, themes, bios y bezzels, deberían funcionar ya siempre).
 * Arley4dBypassPC v8.7.5 (Separado themes de thebezzelsproyect, ahora se pueden activar por separado, para el que no lo sepa, ahora cloud media es de pago) Se puede hacer el tramite desde la misma app, con una prueba de 24 horas si se desea.
 * Arley4dBypassPC v8.6.5 (Arreglado namco2x6, Actualizar también las roms de este sistema).
 ACTUALIZAR LAS ROMS DE NAMCO2X6 si queréis usar este sistema.
