@@ -1,3 +1,5 @@
+* Arley4dBypassPC v9.1 (Necesario para descargar las nuevas Roms y Updates de N.Switch.
+* Añadidos más de 6000 roms de N.Switch. (Solo actualizar estas si se desea)
 * Arley4dBypassPC v9.0 (Corregidos problemas con CloudMedia y la unidad Z:, cierre de juegos Windows y activación de dispositivos que aparecían vinculados a otra cuenta.)
 * Arley4dBypassPC v8.8.8 (Añadida nueva opción para buscar un juego entre todos los sistemas)
 * Añadida la cloud media de el sistema ARCADE (solo actualizar las roms de ARCADE, desde el actualizador)
