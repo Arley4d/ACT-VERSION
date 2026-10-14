@@ -1,3 +1,6 @@
+* Arley4dBypassPC v9.3 (Aviso a la hora de activar Cloud Media si tu PC no está en fecha y hora correcta, debe estar bien para que se active Cloud Media.
+* Añadido multitud de torrents en muchos sistemas. (Actualizar ROMS).
+* es_systems.cfg actualizado, actualizar EXTRAS.
 * Arley4dBypassPC v9.2 (Necesario para descargar las nuevas Roms y de PC (EXPERIMENTAL)).
 * Añadidos más de 4900 roms de pc. (Solo actualizar estas si se desea)
 * Arley4dBypassPC v9.1 (Necesario para descargar las nuevas Roms y Updates de N.Switch).
