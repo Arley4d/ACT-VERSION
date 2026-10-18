@@ -1,3 +1,6 @@
+* Arley4dBypassPC v9.4 
+* Añadida nueva pantalla de descarga para los que estáis suscritos a cloud media.
+* Añadida nueva opción de telegramroms para los que estáis suscritos a cloud media, con esta opción podéis susbir los juegos a telegram y descargarlos y ejecutarlos desde la app.
 * Arley4dBypassPC v9.3 (Aviso a la hora de activar Cloud Media si tu PC no está en fecha y hora correcta, debe estar bien para que se active Cloud Media.
 * Añadido multitud de torrents en muchos sistemas. (Actualizar ROMS).
 * es_systems.cfg actualizado, actualizar EXTRAS.
