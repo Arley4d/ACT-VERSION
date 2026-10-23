@@ -1,2 +1,10 @@
-(24/08/2026) Se han actualizado las roms de Mame (ahora funcionan los killer instinct) y las roms de Switch (se han eliminado enlaces caidos).
+(23/10/2026) Nueva actualización disponible en la playstore, actualiza si aún no lo has hecho.
+Novedades
+• Interfaz del menú principal renovada.
+• Nuevos temas ES-DE, disponibles con suscripción a Cloud Media.
+• Nueva opción para grabar Fake ROMs en tarjetas NFC.
+• Nueva opción para grabar amiibos en etiquetas NTAG215.
+• Nueva sección Telegram ROMs: guarda tus ROMs en Telegram, descárgalas y ejecútalas desde la app.
+• Mejoras en Android TV.
+• Diversas mejoras internas.
 
