@@ -1,4 +1,4 @@
-* Arley4dBypassPC v9.8 Añadida opción para iniciar sesión en archive.org (NECESARIO)
+* Arley4dBypassPC v9.9 Añadida opción para iniciar sesión en archive.org (NECESARIO)
 * Arley4dBypassPC v9.7 (Mejoras varias)
 * Arley4dBypassPC v9.4 
 * Añadida nueva pantalla de descarga para los que estáis suscritos a cloud media.
